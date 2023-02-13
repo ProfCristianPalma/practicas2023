@@ -5,8 +5,10 @@ Autor: Cristian Alonso Palma Sifuentes
 INSTITUTO TECNOLOGICO DE LA SIERRA NEGRA DE AJALPAN 
 
 8vo Ingenieria en Sistemas Computacionales 2023:
--Rufino
--Erick
--Paulina
--Saul
--Luis
+-Sofia
+-OCtavio
+-Ricardo
+-Eduardo
+-Marcela
+
+Estamos en la rama llamada "Linea1"
